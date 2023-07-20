@@ -1,6 +1,6 @@
 # Postman Restful Booker Demo
 
-Esta es una pequeña demo de la [API Restful Booker](https://restful-booker.herokuapp.com/) ejecutando las colecciones de [Postman](https://www.postman.com/) con [Newman](https://github.com/postmanlabs/newman).
+Esta es una demo de la [API Restful Booker](https://restful-booker.herokuapp.com/) ejecutando las colecciones de [Postman](https://www.postman.com/) con [Newman](https://github.com/postmanlabs/newman).
 La API también se puede ejecutar localmente => [API Restful-booker](https://github.com/mwinteringham/restful-booker).
 
 
